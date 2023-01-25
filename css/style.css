@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+body{
+  background-color: bisque;
+}
+header{
+    background-image: url("../img/yo.png");
+    height: 250px;
+  
+}
+h1{
+  color: blue;
+  text-align: center;
+  font-size: 40px;
+}
+.lean{
+  text-align: center;
+  color: red;
+}
+.titulo{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  /*elimina el subrrallado*/
+  text-transform: uppercase;
+  /*coloca en MAYUSCULA*/
+}
+li{
+  list-style-type: none;
+}
+.p2 {
+  color: blueviolet;
+  font-family: 'Roboto', sans-serif;
+}
+.p3{
+  border: black solid 5px;
+  margin: 15px;
+  padding: 5px;
+  background-color: aliceblue;
+}
+.redes{
+  height: 10px;
+  text-align: center;
+  text-transform: none;
+}
+.img{
+  text-transform: none;
+  margin: 10px;
+}
+.barra{
+  display: inline-block;
+  margin: 30px;
+}
